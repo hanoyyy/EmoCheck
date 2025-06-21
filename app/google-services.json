@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "555524807425",
+    "firebase_url": "https://profilepage-99a93-default-rtdb.firebaseio.com",
+    "project_id": "profilepage-99a93",
+    "storage_bucket": "profilepage-99a93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555524807425:android:dbc8aaf572e043418d1900",
+        "android_client_info": {
+          "package_name": "com.example.emocheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJs8FnWHlNugqX82k17Y27ROXkSFNnFwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555524807425:android:89ee157a5d9510cc8d1900",
+        "android_client_info": {
+          "package_name": "com.example.profilepage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJs8FnWHlNugqX82k17Y27ROXkSFNnFwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

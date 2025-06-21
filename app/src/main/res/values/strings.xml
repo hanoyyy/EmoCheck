@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">EmoCheck!</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="welcome">
+        </string>
+
+    <string name="whatis">EmoCheck App is an AI-powered mental health chatbot
+        designed to provide emotional support, mental well-being resources,
+        and personalized guidance to users. EmoCheck AI Mental Health Chatbot
+        redefines mental health support by bringing an empathetic,
+        intelligent companion to your fingertips, making emotional well-being
+        accessible and achievable for everyone.</string>
+
+    <string name="guide">Welcome to EmoCheck!\n
+        1. Log In or Sign Up\n
+        Create an account or log in with your existing credentials. Choose guest mode for an anonymous session if available.\n\n
+        2. Navigate to the Chatbot\n
+        From the Dashboard, tap Chat with EmoCheck to open the chatbot.\n
+        EmoCheck will greet you: Hi there! How are you feeling today?\n\n
+        3. Start the Conversation\n
+        Select a quick response (e.g., Im stressed) or type your own message to begin.\n\n
+        4. Engage in Dialogue\n
+        EmoCheck will guide you with empathetic responses and suggestions based on your input.\n\n
+        </string>
+
+    <string name="developers">EmoCheck is a mental health ChatBot App with it main feature for integrating with the user emotion. This app was created and developed in late October 2024 by a team of class 1. Informatics batch 2023 from President University. So without further to do, Hello there! Lets get to know to our team members: \n
+-Hana Khairunnisa Nabiilah\n
+-Nadifah Aulia Rahmani\n
+-Shofiyyah Abidah Marpaung\n\n
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">How are you feeling today?</string>
+</resources>
